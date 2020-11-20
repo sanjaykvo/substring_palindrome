@@ -1,4 +1,3 @@
-
 """ This program will create the substring of the string and check the substring or not. if the substring is a
 palindrome then it will print the substring if anyone of the substring is not a palindrome it will print invalid
 input. """
